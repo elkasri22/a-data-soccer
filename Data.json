@@ -1,0 +1,22 @@
+{
+  "matches": [
+    {
+      "id": 1,
+      "teamA": "Leicester City",
+      "teamB": "Liverpool",
+      "logoA": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+      "logoB": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+      "matchTime": "16:30 PM CET",
+      "videoUrl": "https://streamingon.org/embed/hd-1.php"
+    },
+    {
+      "id": 2,
+      "teamA": "Bologna",
+      "teamB": "Inter",
+      "logoA": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
+      "logoB": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+      "matchTime": "17:00 PM CET",
+      "videoUrl": "https://streamingon.org/embed/hd-1.php"
+    }
+  ]
+}
