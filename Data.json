@@ -2,39 +2,21 @@
   "matches": [
     {
       "id": 1,
-      "teamA": "Athletic Bilbao",
-      "teamB": "Arsenal",
-      "logoA": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/93.png",
-      "logoB": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/250px-Arsenal_FC.svg.png",
-      "matchTime": "17:45 PM CET",
+      "teamA": "",
+      "teamB": "",
+      "logoA": "",
+      "logoB": "",
+      "matchTime": "",
       "videoUrl": "https://7fractals.icu/channel5"
     },
     {
       "id": 2,
-      "teamA": "psv eindhoven",
-      "teamB": "Union Saint-Gilloise",
-      "logoA": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
-      "logoB": "https://ssl.gstatic.com/onebox/media/sports/logos/6X2ZgFpkGODBF70ZiTGKrw_96x96.png",
-      "matchTime": "17:45 PM CET",
-      "videoUrl": "https://streamingon.org/embed/hd-1.php"
-    },
-    {
-      "id": 3,
-      "teamA": "Real Madrid",
-      "teamB": "Marseille",
-      "logoA": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
-      "logoB": "https://ssl.gstatic.com/onebox/media/sports/logos/KfBX1kHNj26r9NxpqNaTkA_96x96.png",
-      "matchTime": "20:00 PM CET",
-      "videoUrl": "https://streamingon.org/embed/hd-1.php"
-    },
-    {
-      "id": 4,
-      "teamA": "Juventus",
-      "teamB": "Dortund",
-      "logoA": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png",
-      "logoB": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
-      "matchTime": "20:00 PM CET",
-      "videoUrl": "https://streamingon.org/embed/hd-1.php"
+      "teamA": "",
+      "teamB": "",
+      "logoA": "",
+      "logoB": "",
+      "matchTime": "",
+      "videoUrl": "https://7fractals.icu/channel5"
     }
   ]
 }
