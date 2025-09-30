@@ -2,8 +2,8 @@
   "matches": [
     {
       "id": 1,
-      "teamA": "at",
-      "teamB": "fr",
+      "teamA": "Atalanta",
+      "teamB": "Freiburg",
       "logoA": "",
       "logoB": "",
       "matchTime": "",
@@ -11,8 +11,8 @@
     },
     {
       "id": 2,
-      "teamA": "paf",
-      "teamB": "bay",
+      "teamA": "PAOK",
+      "teamB": "Bayern",
       "logoA": "",
       "logoB": "",
       "matchTime": "",
@@ -20,8 +20,8 @@
     },
     {
       "id": 3,
-      "teamA": "bodo",
-      "teamB": "tottenham",
+      "teamA": "Bodø/Glimt",
+      "teamB": "Tottenham",
       "logoA": "",
       "logoB": "",
       "matchTime": "",
@@ -29,8 +29,8 @@
     },
     {
       "id": 4,
-      "teamA": "chel",
-      "teamB": "ben",
+      "teamA": "Chelsea",
+      "teamB": "Benfica",
       "logoA": "",
       "logoB": "",
       "matchTime": "",
@@ -38,8 +38,8 @@
     },
     {
       "id": 5,
-      "teamA": "Gal",
-      "teamB": "lev",
+      "teamA": "Galatasaray",
+      "teamB": "Leverkusen",
       "logoA": "",
       "logoB": "",
       "matchTime": "",
@@ -47,8 +47,8 @@
     },
     {
       "id": 6,
-      "teamA": "inte",
-      "teamB": "slavi",
+      "teamA": "Inter",
+      "teamB": "Slavia Prague",
       "logoA": "",
       "logoB": "",
       "matchTime": "",
@@ -56,8 +56,8 @@
     },
     {
       "id": 7,
-      "teamA": "marse",
-      "teamB": "ajax",
+      "teamA": "Marseille",
+      "teamB": "Ajax",
       "logoA": "",
       "logoB": "",
       "matchTime": "",
